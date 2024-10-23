@@ -134,6 +134,12 @@ padding: 5rem 4rem;
 .sponsors-img-container img{
     width: 165px;
 }
+.footer{
+border-radius: 2rem;
+padding: 2rem;
+background: rgb(255, 244, 231);
+text-align: center;
+}
 
 /* responsive media queries */
 /* for mobile devices */
